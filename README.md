@@ -167,9 +167,12 @@ At inference time:
 
 ---
 
+## EXAMPLE: 
+
 Image : 
 
-![image.jpg](attachment:image.jpg)
+![Example Image](images/image.jpg)
+
 
 Example Labels : cat,dog,car,person,coconut,duck
 
@@ -197,7 +200,7 @@ sample Response :
 
 **Email:** mdhammadahmadgithub@gmail.com 
 
-**LinkedIn:** www.linkedin.com/in/mohammad-hammad-ahmad-188628227  
+**LinkedIn:**  https://www.linkedin.com/in/mohammad-hammad-ahmad-188628227  
 
 Feel free to reach out via email or on LinkedIn.
 
