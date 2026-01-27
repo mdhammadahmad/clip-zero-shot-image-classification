@@ -171,7 +171,7 @@ At inference time:
 
 Image : 
 
-![Example Image](images/image.jpg)
+![Example Image](images/example.jpg)
 
 
 Example Labels : cat,dog,car,person,coconut,duck
