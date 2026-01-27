@@ -33,7 +33,8 @@ At inference time:
 
 ## Processing Flow (Flowchart)
 
-```text
+~~~text
+
 +----------------------+
 |      Client          |
 | (Browser / Postman)  |
@@ -86,7 +87,7 @@ At inference time:
 |  (prediction + score)|
 +----------------------+
 
-
+~~~
 
 ---
 
